@@ -1,0 +1,9 @@
+---
+layout: default
+img: share.jpg
+category: Services
+title: 推廣分享 發展新事業
+description: |
+---
+全世界會員數正在爆發性成長，若您有意願深入了解，請<a href="mailto:liang751215@gmail.com">聯絡我們</a>，留下您的聯絡資料，我們將派專員替您解說。
+<marquee direction="down" scrollamount="1" height="20">1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br></marquee>

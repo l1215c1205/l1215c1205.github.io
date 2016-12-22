@@ -1,8 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: stores.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: 享最高的<b>現金回饋</b><br>從您的日常消費開始！
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  不同於傳統折扣，折扣店家由您決定，您值得擁有更自由、更靈活的消費折扣！
+  只要提供您的消費收據，為Saivian公司匯集大數據資料，即可獲得20%現金回饋，全新的大數據時代合作模式，同時也是目前最高的現金回饋率。
