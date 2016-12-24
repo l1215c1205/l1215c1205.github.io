@@ -2,7 +2,7 @@
 layout: default
 img: stores.jpg
 category: Services
-title: 信用卡享最高的現金回饋<<br>從您的日常消費開始！
+title: 信用卡享最高的現金回饋<br>從您的日常消費開始！
 description: |
 ---
   不同於傳統信用卡折扣，折扣店家由您決定，您值得擁有更自由、更靈活的消費折扣！
