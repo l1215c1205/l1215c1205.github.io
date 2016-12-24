@@ -2,8 +2,23 @@
 layout: default
 img: share.jpg
 category: Services
-title: 推廣分享 發展新事業
+title: 正處於成長爆發期<br>用最小風險 許自己一次機會
 description: |
 ---
-全世界會員數正在爆發性成長，若您有意願深入了解，請<a href="mailto:liang751215@gmail.com">聯絡我們</a>，留下您的聯絡資料，我們將派專員替您解說。
-<marquee direction="down" scrollamount="1" height="20">1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br></marquee>
+全世界會員數正在爆發性成長，我們擁有具市場競爭力的商品條件，以及強力的互助圑隊，平均每一週就有一位夥伴達成被動收入目標。若您有意願深入了解，請<a href="mailto:liang751215@gmail.com">聯絡我們</a>，留下您的聯絡資料，我們將安排專員替您解說。
+
+本週詢問人數 : 26<br>
+<script src="js/temp.js"></script>
+<br>
+<marquee direction="down" scrollamount="1" height="40">
+
+台中縣 小吳 全球旅遊會員<br>
+新北市 蘇小姐 零售商場會員<br>
+新北市 陳小姐 零售商場會員<br>
+宜蘭市 Elaine 全球旅遊會員<br>
+台北市 coco 全球旅遊會員<br>
+台北市 林先生 零售商場會員<br>
+新竹市 Elsa 全球旅遊會員<br>
+高雄縣 Kevin高 全球旅遊會員<br>
+誠摰歡迎本週新成員：<br>
+</marquee>
