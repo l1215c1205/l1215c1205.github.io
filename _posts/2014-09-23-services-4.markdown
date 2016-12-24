@@ -5,20 +5,22 @@ category: Services
 title: 正處於成長爆發期<br>用最小風險 許自己一次機會
 description: |
 ---
-全世界會員數正在爆發性成長，我們擁有具市場競爭力的商品條件，以及強力的互助圑隊，平均每一週就有一位夥伴達成被動收入目標。若您有意願深入了解，請<a href="mailto:liang751215@gmail.com">聯絡我們</a>，留下您的聯絡資料，我們將安排專員替您解說。
+全世界會員數正呈爆發性成長，我們擁有具市場競爭力的商品條件，以及強力的互助圑隊，平均每一週就有一位夥伴達成被動收入目標。無論您想發展事業，或是只想享受20%回饋，只要您稍感興趣，請留下聯絡方式，我們會安排專員為您解說，請放心！解說不會向您收取任何費用。
 
-本週詢問人數 : 26<br>
+
+本週詢問人數 : 26&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<input type="button" value="請聯絡我" onclick="location.href='mailto:liang751215@gmail.com?subject=我有與趣了解Saivian&body=您的大名:%0D%0A聯絡方式:%0D%0A'"><br>
 <script src="js/temp.js"></script>
 <br>
 <marquee direction="down" scrollamount="1" height="40">
 
-台中縣 小吳 全球旅遊會員<br>
-新北市 蘇小姐 零售商場會員<br>
-新北市 陳小姐 零售商場會員<br>
-宜蘭市 Elaine 全球旅遊會員<br>
-台北市 coco 全球旅遊會員<br>
-台北市 林先生 零售商場會員<br>
-新竹市 Elsa 全球旅遊會員<br>
-高雄縣 Kevin高 全球旅遊會員<br>
-誠摰歡迎本週新成員：<br>
+誠摰歡迎 台中縣 小吳 成為 全球旅遊會員<br>
+誠摰歡迎 新北市 蘇小姐 成為 零售商場會員<br>
+誠摰歡迎 新北市 陳小姐 成為 零售商場會員<br>
+誠摰歡迎 宜蘭市 Elaine 成為 全球旅遊會員<br>
+誠摰歡迎 台北市 coco 成為 全球旅遊會員<br>
+誠摰歡迎 台北市 林先生 成為 零售商場會員<br>
+誠摰歡迎 新竹市 Elsa 成為 全球旅遊會員<br>
+誠摰歡迎 高雄縣 Kevin高 成為 全球旅遊會員<br>
+本週新成員：<br>
 </marquee>

@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://l1215c1205.github.io
 title: Saivian 全球首創 刷卡現金回饋20%
 email: your-email@domain.com
 author: Your Name
@@ -29,9 +29,7 @@ permalink: pretty
 social:
   - title: facebook
     url: https://www.facebook.com/taiwan.saivian/?fref=ts
-  - title: 聯絡我了解更多
-    url: mailto:liang751215@gmail.com  
-  - title: 立即加入
-    url: mailto:liang751215@gmail.com
-social1:
-  - title: test
+  - title: instagram
+    url: https://www.instagram.com/explore/tags/saivian/
+    
+
